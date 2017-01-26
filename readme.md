@@ -17,7 +17,7 @@ INTERACTIVE OBJECTS AND ENTITIES
 
 [Ping Pong Gun](https://github.com/highfidelity/hifi/blob/master/scripts/tutorials/entity_scripts/pingPongGun.js)
 
-[Gaming Table ](https://github.com/imgntn/jbp-hifi-apps/tree/master/gameTable)
+[Gaming Table](https://github.com/imgntn/jbp-hifi-apps/tree/master/gameTable)
 
 LOCOMOTION
 ----------
@@ -45,17 +45,21 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 
 [dat.gui connected Particle System Explorer](https://github.com/highfidelity/hifi/blob/master/scripts/system/particle_explorer/particleExplorer.js)
 
-[New Editor for Shared Entity Userdata JSON ](https://github.com/highfidelity/hifi/pull/8505)
+Before, there was no way to quickly explore the parameters of particle systems.  Improved content creator productivity.
 
-Prior to this PR, you had to try to input properly formatted JSON as a string into a textarea.  Adapted a much nicer JSON editor based on user feedback.
+[New Editor for Shared Entity UserData JSON](https://github.com/highfidelity/hifi/pull/8505)
+
+Before, you had to try to input properly formatted JSON as a string into a textarea to share data between entities.  Adapted a much nicer JSON editor based on user feedback.
 
 
 A.I. & BEHAVIORS
 ----------------
 
-[steering behavior for animated 'rat' entity going down alley.  avoids avatars and certain blocks.](https://github.com/highfidelity/hifi/blob/master/script-archive/drylake/ratSteer.js)
+[steering behavior for animated 'rat' entity in alley scene](https://github.com/highfidelity/hifi/blob/master/script-archive/drylake/ratSteer.js)
+a steering behavior where the rat avoids avatars and other obstacles.
 
 [a* pathfinding example using easystar library and tween.js](https://github.com/highfidelity/hifi/blob/master/script-archive/libraries/easyStarExample.js)
+pathfinding algorithm that finds a path through a grid of obstacles
 
 
 EXPERIMENTS
@@ -90,3 +94,9 @@ BROWSER-RELATED / UTILITIES
 [export 4K resolution 360 Videos and Photos from inside of Three.js scenes](https://github.com/imgntn/j360)
 
 Create videos from insides of your scenes that you can post to Facebook and YouTube
+
+
+PULL REQUESTS
+-------------
+[All my Pull Requests from High Fidelity](https://github.com/highfidelity/hifi/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Aimgntn)
+A quick way to see work from 2015-2016
