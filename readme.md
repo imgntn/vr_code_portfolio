@@ -20,6 +20,7 @@ LOCOMATION
 ----------
 
 [Hand Controller Teleportation System](https://github.com/highfidelity/hifi/blob/master/scripts/system/controllers/teleport.js)
+
 Uses "dash" teleporting to move user through space.  Works with Oculus Touch, Vive, and Hydra Razer.
 
 
@@ -42,6 +43,7 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 [dat.gui connected Particle System Explorer](https://github.com/highfidelity/hifi/blob/master/scripts/system/particle_explorer/particleExplorer.js)
 
 [New Editor for Shared Entity Userdata JSON ](https://github.com/highfidelity/hifi/pull/8505)
+
 Prior to this PR, you had to try to input properly formatted JSON as a string into a textarea.  Adapted a much nicer JSON editor based on user feedback.
 
 
@@ -56,15 +58,19 @@ A.I. & BEHAVIORS
 EXPERIMENTS
 -----------
 [Doppelganger](https://github.com/highfidelity/hifi/blob/master/script-archive/dressing_room/doppelganger.js) 
+
 A copy of your avatar where your movements are mirrored onto the entity.  Part of "Dressing Room" in "Home" content set.
 
 [Grand Central](https://github.com/imgntn/jbp-hifi-apps/blob/master/grandcentral/main.js)
+
 Domain where all currently occupied user domains are represented spatially and can be teleported into by walking
 
 [FeelSpeak](https://github.com/imgntn/jbp-hifi-apps/tree/master/feelspeak)
+
 Uses haptics to tie one user's voice to another user's hand controllers.  You can feel when someone else speaks.  
 
 [VNC in VR - Synchronized Virtual Desktops](http://blog.highfidelity.com/blog/2016/4/25/vnc-in-vr-synchronized-virtual-desktops)
+
 See your normal desktop in VR using web technologies.  
 
 BROWSER-RELATED / UTILITIES
@@ -79,4 +85,5 @@ BROWSER-RELATED / UTILITIES
 360 VIDEO
 ---------
 [export 4K resolution 360 Videos and Photos from inside of Three.js scenes](https://github.com/imgntn/j360)
+
 Create videos from insides of your scenes that you can post to Facebook and YouTube
