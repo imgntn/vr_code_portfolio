@@ -38,6 +38,7 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 3D USER INTERFACES (SPATIAL)
 ------------------
 [Control the position, rotation, and proprties of lights](https://github.com/highfidelity/hifi/tree/master/script-archive/light_modifier)
+use physical objects to control lighting.  works with multiple users.
 
 
 2D USER INTERFACE IMPROVMENTS (NON-DIEGETIC)
@@ -59,7 +60,7 @@ A.I. & BEHAVIORS
 a steering behavior where the rat avoids avatars and other obstacles.
 
 [a* pathfinding example using easystar library and tween.js](https://github.com/highfidelity/hifi/blob/master/script-archive/libraries/easyStarExample.js)
-pathfinding algorithm that finds a path through a grid of obstacles
+pathfinding algorithm that finds a path through a grid of obstacles.
 
 
 EXPERIMENTS
@@ -93,10 +94,11 @@ BROWSER-RELATED / UTILITIES
 ---------
 [export 4K resolution 360 Videos and Photos from inside of Three.js scenes](https://github.com/imgntn/j360)
 
-Create videos from insides of your scenes that you can post to Facebook and YouTube
+Create videos from insides of your scenes that you can post to Facebook and YouTube.
 
 
 PULL REQUESTS
 -------------
 [All my Pull Requests from High Fidelity](https://github.com/highfidelity/hifi/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Aimgntn)
-A quick way to see work from 2015-2016
+
+A quick way to see work from 2015-2016.
