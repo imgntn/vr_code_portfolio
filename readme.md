@@ -38,7 +38,8 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 3D USER INTERFACES (SPATIAL)
 ------------------
 [Control the position, rotation, and proprties of lights](https://github.com/highfidelity/hifi/tree/master/script-archive/light_modifier)
-use physical objects to control lighting.  works with multiple users.
+
+Use physical objects to control lighting.  works with multiple users.
 
 
 2D USER INTERFACE IMPROVMENTS (NON-DIEGETIC)
