@@ -3,15 +3,19 @@
 
 ##Virtual Reality Code Portfolio
 
-Includes work in High Fidelity, webVR (A-Frame), and Three.js
+Includes work in High Fidelity, webVR (A-Frame), and Three.js.
 
-INTERACTIVE OBJECTS
-----------
+INTERACTIVE OBJECTS AND ENTITIES
+--------------------------------
+
 [Bow and Arrow using A-Frame](https://github.com/imgntn/jBow)
 
 [Bow and Arrow using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
 
+![Alt text](images/bow.png?raw=true "Bow and Arrow")
+
 [Xylophone](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/createXylophone.js), [Xylophone Key](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/xylophoneKey.js)
+![Alt text](images/xylophone.jpg?raw=true "Xylophone")
 
 [Ping Pong Gun](https://github.com/highfidelity/hifi/blob/master/scripts/tutorials/entity_scripts/pingPongGun.js)
 ![Alt text](images/ping_pong_gun.jpg?raw=true "Ping Pong Gun")
@@ -23,7 +27,7 @@ LOCOMATION
 ----------
 
 [Hand Controller Teleportation System](https://github.com/highfidelity/hifi/blob/master/scripts/system/controllers/teleport.js)
-Uses "dash" teleporting to move user through space.  Works with Oculus Touch, 
+Uses "dash" teleporting to move user through space.  Works with Oculus Touch, Vive, and Hydra Razer.
 
 
 DATA VISUALIZATION
@@ -38,12 +42,13 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 ------------------
 [Control the position, rotation, and proprties of lights](https://github.com/highfidelity/hifi/tree/master/script-archive/light_modifier)
 
+![Alt text](images/lighting_modifier.png?raw=true "Lighting Modifier")
 
 
-2D USER INTERFACES (NON-DIEGETIC)
-------------------
+2D USER INTERFACE IMPROVMENTS (NON-DIEGETIC)
+-----------------------------
 
-[dat.gui connected Particle System Explorer] (https://github.com/highfidelity/hifi/blob/master/scripts/system/particle_explorer/particleExplorer.js)
+[dat.gui connected Particle System Explorer](https://github.com/highfidelity/hifi/blob/master/scripts/system/particle_explorer/particleExplorer.js)
 
 
 [New Editor for Shared Entity Userdata JSON ](https://github.com/highfidelity/hifi/pull/8505)
@@ -55,6 +60,7 @@ A.I. & BEHAVIORS
 ----------------
 
 [steering behavior for animated 'rat' entity going down alley.  avoids avatars and certain blocks.](https://github.com/highfidelity/hifi/blob/master/script-archive/drylake/ratSteer.js)
+![Alt text](images/rats_in_alley.jpg?raw=true "Alley Scene")
 
 [a* pathfinding example using easystar library and tween.js](https://github.com/highfidelity/hifi/blob/master/script-archive/libraries/easyStarExample.js)
 
@@ -64,12 +70,14 @@ EXPERIMENTS
 [Doppelganger](https://github.com/highfidelity/hifi/blob/master/script-archive/dressing_room/doppelganger.js) 
 A copy of your avatar where your movements are mirrored onto the entity.  Part of "Dressing Room" in "Home" content set.
 
-
 [Grand Central](https://github.com/imgntn/jbp-hifi-apps/blob/master/grandcentral/main.js)
 Domain where all currently occupied user domains are represented spatially and can be teleported into by walking
 
 [FeelSpeak](https://github.com/imgntn/jbp-hifi-apps/tree/master/feelspeak)
 Uses haptics to tie one user's voice to another user's hand controllers.  You can feel when someone else speaks.  
+
+[VNC in VR - Synchronized Virtual Desktops](http://blog.highfidelity.com/blog/2016/4/25/vnc-in-vr-synchronized-virtual-desktops)
+See your normal desktop in VR using web technologies.  
 
 BROWSER-RELATED / UTILITIES
 ---------------
@@ -83,3 +91,4 @@ BROWSER-RELATED / UTILITIES
 360 VIDEO
 ---------
 [export 4K resolution 360 Videos and Photos from inside of Three.js scenes](https://github.com/imgntn/j360)
+Create videos from insides of your scenes that you can post to Facebook and YouTube
