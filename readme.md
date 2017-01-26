@@ -5,11 +5,13 @@
 
 Includes work in High Fidelity, webVR (A-Frame), and Three.js.
 
+
 INTERACTIVE OBJECTS AND ENTITIES
 --------------------------------
 
-[Bow and Arrow using A-Frame](https://github.com/imgntn/jBow)
-[Bow and Arrow using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
+[Bow and Arrow // A-Frame](https://github.com/imgntn/jBow)
+
+[Bow and Arrow // High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
 
 [Xylophone](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/createXylophone.js), [Xylophone Key](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/xylophoneKey.js)
 
