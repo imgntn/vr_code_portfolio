@@ -19,12 +19,12 @@ INTERACTIVE OBJECTS AND ENTITIES
 
 [Gaming Table ](https://github.com/imgntn/jbp-hifi-apps/tree/master/gameTable)
 
-LOCOMATION
+LOCOMOTION
 ----------
 
 [Hand Controller Teleportation System](https://github.com/highfidelity/hifi/blob/master/scripts/system/controllers/teleport.js)
 
-Uses "dash" teleporting to move user through space.  Works with Oculus Touch, Vive, and Hydra Razer.
+Uses smooth arrival teleporting to move user through space.  Works with Oculus Touch, Vive, and Hydra Razer.
 
 
 DATA VISUALIZATION
