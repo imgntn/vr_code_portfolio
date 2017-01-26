@@ -8,20 +8,13 @@ Includes work in High Fidelity, webVR (A-Frame), and Three.js.
 INTERACTIVE OBJECTS AND ENTITIES
 --------------------------------
 
-[Bow and Arrow using A-Frame](https://github.com/imgntn/jBow)
-
-[Bow and Arrow using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
-
-![Alt text](images/bow.png?raw=true "Bow and Arrow")
+[Bow and Arrow using A-Frame](https://github.com/imgntn/jBow), [Bow and Arrow using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
 
 [Xylophone](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/createXylophone.js), [Xylophone Key](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/xylophoneKey.js)
-![Alt text](images/xylophone.jpg?raw=true "Xylophone")
 
 [Ping Pong Gun](https://github.com/highfidelity/hifi/blob/master/scripts/tutorials/entity_scripts/pingPongGun.js)
-![Alt text](images/ping_pong_gun.jpg?raw=true "Ping Pong Gun")
 
 [Gaming Table ](https://github.com/imgntn/jbp-hifi-apps/tree/master/gameTable)
-![Alt text](images/gaming_table.jpg?raw=true "Gaming Table")
 
 LOCOMATION
 ----------
@@ -42,17 +35,13 @@ Puts spheres on the globe wherever there are earthquakes and colors them accordi
 ------------------
 [Control the position, rotation, and proprties of lights](https://github.com/highfidelity/hifi/tree/master/script-archive/light_modifier)
 
-![Alt text](images/lighting_modifier.png?raw=true "Lighting Modifier")
-
 
 2D USER INTERFACE IMPROVMENTS (NON-DIEGETIC)
 -----------------------------
 
 [dat.gui connected Particle System Explorer](https://github.com/highfidelity/hifi/blob/master/scripts/system/particle_explorer/particleExplorer.js)
 
-
 [New Editor for Shared Entity Userdata JSON ](https://github.com/highfidelity/hifi/pull/8505)
-
 Prior to this PR, you had to try to input properly formatted JSON as a string into a textarea.  Adapted a much nicer JSON editor based on user feedback.
 
 
@@ -60,7 +49,6 @@ A.I. & BEHAVIORS
 ----------------
 
 [steering behavior for animated 'rat' entity going down alley.  avoids avatars and certain blocks.](https://github.com/highfidelity/hifi/blob/master/script-archive/drylake/ratSteer.js)
-![Alt text](images/rats_in_alley.jpg?raw=true "Alley Scene")
 
 [a* pathfinding example using easystar library and tween.js](https://github.com/highfidelity/hifi/blob/master/script-archive/libraries/easyStarExample.js)
 
