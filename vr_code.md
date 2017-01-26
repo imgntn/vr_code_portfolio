@@ -1,7 +1,7 @@
 
-James Pollack
+#James Pollack
 
-Virtual Reality Code Portfolio
+##Virtual Reality Code Portfolio
 
 Includes work in High Fidelity, webVR (A-Frame), and Three.js
 
@@ -9,12 +9,12 @@ INTERACTIVE OBJECTS
 ----------
 [Bow and Arrow using A-Frame](https://github.com/imgntn/jBow)
 
-[Bow and Arrow, using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.j)
-s
+[Bow and Arrow using High Fidelity](https://github.com/highfidelity/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
 
 [Xylophone](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/createXylophone.js), [Xylophone Key](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/xylophoneKey.js)
 
 [Ping Pong Gun](https://github.com/highfidelity/hifi/blob/master/scripts/tutorials/entity_scripts/pingPongGun.js)
+![Alt text](images/ping_pong_gun.jpg?raw=true "Ping Pong Gun")
 
 [Gaming Table ](https://github.com/imgntn/jbp-hifi-apps/tree/master/gameTable)
 ![Alt text](images/gaming_table.jpg?raw=true "Gaming Table")
