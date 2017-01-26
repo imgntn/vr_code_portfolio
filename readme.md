@@ -57,9 +57,11 @@ A.I. & BEHAVIORS
 ----------------
 
 [steering behavior for animated 'rat' entity in alley scene](https://github.com/highfidelity/hifi/blob/master/script-archive/drylake/ratSteer.js)
+
 a steering behavior where the rat avoids avatars and other obstacles.
 
 [a* pathfinding example using easystar library and tween.js](https://github.com/highfidelity/hifi/blob/master/script-archive/libraries/easyStarExample.js)
+
 pathfinding algorithm that finds a path through a grid of obstacles.
 
 
