@@ -9,9 +9,11 @@ Includes work in High Fidelity, webVR (A-Frame), and Three.js.
 INTERACTIVE OBJECTS AND ENTITIES
 --------------------------------
 
-[Bow and Arrow // A-Frame](https://github.com/imgntn/jBow)
+### A-Frame
+[Bow and Arrow ](https://github.com/imgntn/jBow)
 
-[Bow and Arrow // High Fidelity](https://github.com/imgntn/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
+### High Fidelity
+[Bow and Arrow](https://github.com/imgntn/hifi/blob/master/unpublishedScripts/marketplace/bow/bow.js)
 
 [Xylophone](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/createXylophone.js), [Xylophone Key](https://github.com/imgntn/jbp-hifi-apps/blob/master/xylophone/xylophoneKey.js)
 
@@ -85,15 +87,8 @@ Uses haptics to tie one user's voice to another user's hand controllers.  You ca
 See your normal desktop in VR using web technologies.  
 
 
-360 VIDEO
+360 VIDEO for THREE.JS
 ---------
 [export 4K resolution 360 Videos and Photos from inside of Three.js scenes](https://github.com/imgntn/j360)
 
 Create videos from insides of your scenes that you can post to Facebook and YouTube.
-
-BROWSER-RELATED
----------------
-
-[Add support for pop-up windows to Qt WebEngineView](https://github.com/imgntn/hifi/pull/7143)  
-
-[Enable HTML5 userMedia APIs in QTWebengine view](https://github.com/imgntn/hifi/pull/7137)
