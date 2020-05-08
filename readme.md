@@ -1,7 +1,7 @@
 
-#James Pollack
+# James Pollack
 
-##Virtual Reality Code Portfolio
+## Virtual Reality Code Portfolio
 
 Includes work in High Fidelity, webVR (A-Frame), and Three.js.
 
