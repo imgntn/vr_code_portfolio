@@ -84,12 +84,6 @@ Uses haptics to tie one user's voice to another user's hand controllers.  You ca
 
 See your normal desktop in VR using web technologies.  
 
-BROWSER-RELATED
----------------
-
-[Add support for pop-up windows to Qt WebEngineView](https://github.com/imgntn/hifi/pull/7143)  
-
-[Enable HTML5 userMedia APIs in QTWebengine view](https://github.com/imgntn/hifi/pull/7137)
 
 360 VIDEO
 ---------
@@ -97,9 +91,9 @@ BROWSER-RELATED
 
 Create videos from insides of your scenes that you can post to Facebook and YouTube.
 
+BROWSER-RELATED
+---------------
 
-HIFI PULL REQUESTS
--------------
-[All my Pull Requests from High Fidelity](https://github.com/imgntn/hifi/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Aimgntn)
+[Add support for pop-up windows to Qt WebEngineView](https://github.com/imgntn/hifi/pull/7143)  
 
-A quick way to see work from 2015-2016.
+[Enable HTML5 userMedia APIs in QTWebengine view](https://github.com/imgntn/hifi/pull/7137)
